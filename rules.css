@@ -1,0 +1,19 @@
+* {
+  background-color: black;
+}
+
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: magenta;
+  font-size: 85px;
+}
+
+.rules {
+  width: 350px;
+  margin: auto;
+
+  font-size: 36px;
+  color: whitesmoke;
+}
